@@ -1,0 +1,14 @@
+#artContainer,
+#artContainer svg {
+    border-radius: 20px;
+    margin: 0;
+}
+
+#artContainer svg {
+    border: 10px solid black;
+}
+
+#buttonsContainer {
+    display: flex;
+    justify-content: space-around;
+}
